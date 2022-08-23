@@ -1,5 +1,5 @@
 {
-  "name": "lookfor-sth-lost",
+  "name": "@sheepeer/lookfor-sth-lost",
   "version": "1.0.0",
   "description": "help to find sth lost based in ZhouYi",
   "main": "src/index.js",

@@ -1,0 +1,15 @@
+{
+  "name": "lookfor-sth-lost",
+  "version": "1.0.0",
+  "description": "help to find sth lost based in ZhouYi",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bin": {
+    "findit": "bin/index.js"
+  }
+}
